@@ -7,9 +7,8 @@
 </head>
 <body>
 	<div style="border:5px solid DodgerBlue;"><br>
-		<h2 style="color:Tomato;"> 👋 Hi there! </h2>
+		<h1>👋 Hello. Thanks for dropping by!</h1>
 		<img src="https://c.tenor.com/neqnFd4CHWAAAAAM/up-wave.gif">
-		<h1>Thanks for dropping by 🤝</h1>
 		<p>👦</p>
 	</div>
 </body>
