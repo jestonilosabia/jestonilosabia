@@ -10,9 +10,7 @@
 		<h2 style="color:Tomato;"> 👋 Hi there! </h2>
 		<img src="https://c.tenor.com/neqnFd4CHWAAAAAM/up-wave.gif">
 		<h1>My name is 👦 <b>Jestoni Losabia</b></h1>
-		<p>Nothing here. <br>
-		<p>🤝<br>
-		<b>Jestoni</b>
+		<p>Thanks for dropping by 🤝. <br>
 		</p>
 	</div>
 </body>
