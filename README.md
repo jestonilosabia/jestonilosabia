@@ -9,8 +9,8 @@
 	<div style="border:5px solid DodgerBlue;"><br>
 		<h2 style="color:Tomato;"> 👋 Hi there! </h2>
 		<img src="https://c.tenor.com/neqnFd4CHWAAAAAM/up-wave.gif">
-		<h1>My name is 👦 <b>Jestoni Losabia</b></h1>
-		<p>Thanks for dropping by 🤝. <br>
+		<h1>Thanks for dropping by 🤝</h1>
+		<p>👦 <b>Jestoni Losabia</b>.
 		</p>
 	</div>
 </body>
